@@ -1,0 +1,10 @@
+{
+  "name": "harbinger-postgres-store",
+  "version": "0.0.1",
+  "description": "Postgres store for harbinger",
+  "dependencies": {
+    "pg": "2.3.1",
+    "sql": "0.26.0",
+    "underscore": "1.5.1"
+  }
+}

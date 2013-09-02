@@ -42,7 +42,7 @@ setup
 The base sql file for creating the table can be found in utils/
 
 
-LICENCE
+LICENSE
 ---
 
 <MIT>

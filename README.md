@@ -1,17 +1,17 @@
-harbinger-postgres-store
+forerunner-postgres-store
 ===
 
-Simple postgres store plugin for [harbinger](https://github.com/dropdownmenu/harbinger).
+Simple postgres store plugin for [forerunner](https://github.com/dropdownmenu/forerunner).
 
 ```
-npm install harbinger-postgres-store
+npm install forerunner-postgres-store
 ```
 
 usage
 ---
 
 ```
-var pgStore = require('harbinger-postgres-store');
+var pgStore = require('forerunner-postgres-store');
 
 // set up the db
 var dbOpts = {
@@ -25,11 +25,11 @@ var dbOpts = {
 
 var store = new pgStore(dbOpts, function(err) {
 
-  var harbingerOpts = {
+  var forerunnerOpts = {
     store: store
   };
 
-  harbinger.start(harbingerOpts, function() {
+  forerunner.start(forerunnerOpts, function() {
 
   });
 });

@@ -1,7 +1,7 @@
 {
-  "name": "harbinger-postgres-store",
+  "name": "forerunner-postgres-store",
   "version": "0.0.1",
-  "description": "Postgres store for harbinger",
+  "description": "Postgres store for forerunner",
   "dependencies": {
     "pg": "2.3.1",
     "sql": "0.26.0",

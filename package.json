@@ -1,6 +1,6 @@
 {
   "name": "forerunner-postgres-store",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Postgres store for forerunner",
   "dependencies": {
     "pg": "2.3.1",

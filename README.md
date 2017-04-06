@@ -1,6 +1,8 @@
 forerunner-postgres-store
 ===
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kiernanmcgowan/forerunner-postgres-store.svg)](https://greenkeeper.io/)
+
 Simple postgres store plugin for [forerunner](https://github.com/dropdownmenu/forerunner).
 
 ```
